@@ -46,5 +46,5 @@
 <a href="https://www.npmjs.com/~algobreigh">npm</a>
 <br>
 <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png"  height="50" alt="logo">
-<a>pypi</a>
+<a href="https://pypi.org/user/razzberri/">pypi</a>
 </p>
