@@ -43,7 +43,7 @@
 <h3>Links</h3>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" height="50" alt="npm logo">
-<a>npm</a>
+<a href="https://www.npmjs.com/~algobreigh">npm</a>
 <br>
 <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png"  height="50" alt="logo">
 <a>pypi</a>
